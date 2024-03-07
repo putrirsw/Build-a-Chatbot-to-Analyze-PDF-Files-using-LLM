@@ -20,10 +20,11 @@ You will also gain a deeper understanding of web application development using F
 --------------------------------------------------------
 
 ## Key learning objectives of this project include:
-By completing this project, you will:
-1. Understand the basics of LangChain and generative AI applications that use LLM.
-2. Set up a development environment for building a chatbot using Python Flask framework.
-3. Utilize LangChain to integrate the chatbot with the LLM model that gives a high level of intelligence and the ability to understand and respond to user requests.
+- Understand the basics of langchain and AI applications
+- Set up a development environment for building an assistant using Python Flask
+- Implement PDF upload functionality to allow the assistant to understand file input from users
+- Integrate the assistant with OpenAI’s GPT-3 model to give it a high level of intelligence and the ability to understand and respond to user requests
+- (Optional) Understand how to deploy the PDF assistant to a web server for use by a wider audience
 
 ## Skill will Learn
 - Python
